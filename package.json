@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtstockard/README_Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jtstockard/README_Generator/issues"
+  },
+  "homepage": "https://github.com/jtstockard/README_Generator#readme",
+  "keywords": []
 }
