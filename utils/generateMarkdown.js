@@ -56,7 +56,7 @@ function generateMarkdown(answers) {
 
   ## Questions
 
-  ✋ ${answers.questions}<br />
+  ${answers.questions}<br />
   <br />
 
    Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
@@ -64,7 +64,7 @@ function generateMarkdown(answers) {
 
   Email me with any questions: ${answers.email}<br /><br />
 
-  This README was generated with ❤️ by [README-generator](https://github.com/jtstockard/README-generator)
+\_This README was generated with ❤️ by [README-generator](https://github.com/jtstockard/README-generator)\_
       ;
     }
     
