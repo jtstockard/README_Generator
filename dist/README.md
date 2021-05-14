@@ -23,7 +23,7 @@ npm install inquirer is required
 
 ## Usage
 
-UT Coding Bootcamp class assignment
+KU Coding Bootcamp class assignment
 
 ## License
 
@@ -43,8 +43,8 @@ No tests are included
 
 Email me or reach out on GitHub<br />
 <br />
-Find me on GitHub: [jpd61](https://github.com/jtstockard)<br />
+Find me on GitHub: [jtstockard](https://github.com/jtstockard)<br />
 <br />
 Email me with any questions: jtstockard@gmail.com<br /><br />
 
-\_This README was generated with ❤️ by [README-generator](https://github.com/jtstockard/README_Generator)
+\_This README was generated with ❤️ by [README-generator](https://github.com/jtstockard/README_Generator)\_
