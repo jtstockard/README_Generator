@@ -1,15 +1,14 @@
-<h1 align="center">README Generator</h1>
-  
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+<h1 align="center">README Generator </h1>
+    
+  ![badge](https://img.shields.io/badge/license-GNU-General-Public-License-v3.0-brightgreen)<br />
 
 ## Description
 
-A node.js application that creates a generated README.md file to the dist directory
+Allows the use of a quick template to add a quality README to any repository
 
 ## Table of Contents
 
 - [Description](#description)
-- [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -19,17 +18,18 @@ A node.js application that creates a generated README.md file to the dist direct
 
 ## Installation
 
-npm install inquirer is required
+npm inquirer
 
 ## Usage
 
-KU Coding Bootcamp class assignment
+node index.js
 
 ## License
 
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+![badge](https://img.shields.io/badge/license-GNU-General-Public-License-v3.0-brightgreen)
 <br />
-This application is covered by the MIT license.
+
+This application is covered by the GNU General Public License v3.0 license.
 
 ## Contributing
 
@@ -37,14 +37,17 @@ Joel Stockard
 
 ## Tests
 
-No tests are included
+None
 
 ## Questions
 
-Email me or reach out on GitHub<br />
-<br />
-Find me on GitHub: [jtstockard](https://github.com/jtstockard)<br />
-<br />
-Email me with any questions: jtstockard@gmail.com<br /><br />
+  <br />
 
-\_This README was generated with ❤️ by [README-generator](https://github.com/jtstockard/README_Generator)\_
+Find me on GitHub: [Jtstockard](https://github.com/Jtstockard)<br />
+<br />
+
+Email me with any questions: jtstockard92@gmail.com<br /><br />
+
+_This README was generated with ❤️ by [README-generator](https://github.com/jtstockard/README-generator)_
+;
+}

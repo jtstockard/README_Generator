@@ -43,8 +43,8 @@ function promptUser() {
     },
     {
       type: "input",
-      message: "Please advise any contributions you have made:",
-      name: "contributions",
+      message: "Please advise any contributors you have:",
+      name: "contributors",
     },
     {
       type: "input",
