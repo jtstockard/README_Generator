@@ -1,6 +1,6 @@
 <h1 align="center">README Generator </h1>
     
-  ![badge](https://img.shields.io/badge/license-GNU-General-Public-License-v3.0-brightgreen)<br />
+  ![badge](https://img.shields.io/badge/licenseGNUGeneralPublicLicense-v3.0-brightgreen)<br />
 
 ## Description
 
@@ -26,7 +26,7 @@ node index.js
 
 ## License
 
-![badge](https://img.shields.io/badge/license-GNU-General-Public-License-v3.0-brightgreen)
+![badge](https://img.shields.io/badge/licenseGNUGeneralPublicLicense-v3.0-brightgreen)
 <br />
 
 This application is covered by the GNU General Public License v3.0 license.
