@@ -5,10 +5,14 @@
    
 ## Description
   
- A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory and can be found [here](.dist/README.md)
+ A Node.js application that uses user input from inquirer to populate a README markdown file for user repository. The README markdown file is created in the dist directory and can be found [here](.dist/README.md)
 
-Below is the video example of how it works:
-![Video Presentation](./src/readme-generator-movie)
+Below is the link to the video example of how it works:
+
+[Video Presentation](./src/readme-generator-movie.mp4)
+
+Here is a gif that higlights the creation of the README markdown <br />
+![Gif](./src/readme-generator-example.gif)
 
 ## Table of Contents
 
