@@ -9,7 +9,7 @@
 
 Below is the link to the video example of how it works:
 
-[Video Presentation](./src/readme-generator-movie.mp4)
+[Video Presentation](https://drive.google.com/file/d/1Nq8fvlaYUPrGtLLVhEuRy4nsEku7EcGy/view?usp=sharing)
 
 Here is a gif that higlights the creation of the README markdown <br />
 ![Gif](./src/readme-generator-example.gif)
